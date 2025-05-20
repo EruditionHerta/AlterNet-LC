@@ -5,8 +5,6 @@ This repository contains the code and description for **AlterNet-LC**, a deep le
 The notebook includes:
 
   * Complete training code for AlterNet-LC, encompassing data preprocessing, model definition, training, validation, and testing procedures.
-  * Details of comparative experiments conducted on the **PneumoniaMNIST** dataset against three other models: **DenseNet**, **GLCM+SVM**, and **LBP+RF**.
-  * Testing of the trained AlterNet-LC model for generalization capability on a **Kaggle dataset**.
 
 **Authors:** Li Jiawei, Chen Mingfang, Yao Zehan
 
@@ -163,7 +161,4 @@ The Jupyter Notebook is structured to provide a comprehensive workflow:
 ```
 .
 ├── Code & Description.ipynb    # Main Jupyter Notebook with all code and explanations
-├── evaluation_results/         # Directory for saving evaluation reports
-│   └── images/                 # Directory for potentially saving images/plots
-└── pneumoniamnist_224.npz      # Expected preprocessed dataset (or downloaded via MedMNIST)
 ```
