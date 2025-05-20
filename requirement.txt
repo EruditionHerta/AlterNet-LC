@@ -1,0 +1,10 @@
+numpy==1.24.4
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+scikit-learn==1.4.2
+matplotlib==3.7.5
+seaborn==0.13.2
+tqdm==4.67.1
+Pillow==11.1.0
+medmnist
+kagglehub
